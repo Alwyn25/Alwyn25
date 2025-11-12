@@ -16,7 +16,7 @@
 <details open>
   <summary><h2> 💫 About Me: </h2></summary>
 
-- 🔭 I’m currently working on [Agentic AI](https://github.com/Alwyn25/finance_agentic_ai )
+- 🔭 I’m currently working on [Agentic AI](https://github.com/Alwyn25/finance_agentic_ai ), A2A Protocol, MCP
 
 - 🌱 I’m currently learning **RAG Framework**
 
@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alwyns2508](https://medium.com/@alwyns2508)
 
-- 💬 Ask me about **Statistics, Machine Learning, NLP, LLM, Python**
+- 💬 Ask me about **Statistics, Machine Learning, NLP, LLM, Python, A2A Protocol, MCP, Langgraph**
 
 - 📫 How to reach me **alwyns2508@gmail.com**
 
