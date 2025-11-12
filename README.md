@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=40&duration=1&pause=1000&center=true&random=false&width=1000&height=80&lines=Alwyn+Sebastian" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&center=true&multiline=true&random=false&width=1000&height=150&lines=Data+Science+%26+AI+Professional;%F0%9F%93%9A+Always+learning!%E2%80%82+%F0%9F%96%A5%EF%B8%8F%E2%8C%9B+2+years+Experience;Interests%3A+Data+Science+ML+AI+NLP+LLM" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&center=true&multiline=true&random=false&width=1000&height=150&lines=Data+Science+%26+AI+Professional;%F0%9F%93%9A+Always+learning!%E2%80%82+%F0%9F%96%A5%EF%B8%8F%E2%8C%9B+2.5+years+Experience;Interests%3A+Data+Science+ML+AI+NLP+LLM" alt="Typing SVG" /></a>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
